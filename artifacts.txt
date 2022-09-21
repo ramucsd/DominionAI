@@ -1,0 +1,5 @@
+Flag
+Horn
+Key
+Lantern
+Treasure Chest
